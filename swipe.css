@@ -1,0 +1,16 @@
+/* Swipe 2.0 Brad Birdsall Copyright 2013, licensed MIT License
+ */
+.swipe-container {
+  overflow: hidden;
+  visibility: hidden;
+}
+.swipe-wrap {
+  overflow: hidden;
+  height:100%;
+}
+.swipe-slide {
+  float:left;
+  width:100%;
+  height:100%;
+  overflow: hidden;
+}
